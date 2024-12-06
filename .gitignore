@@ -1,0 +1,61 @@
+# Ignore arquivos gerados pelo Build
+bin/
+obj/
+
+# Arquivos de configuração do usuário
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Configurações de depuração locais
+.vscode/
+
+# Banco de dados SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos temporários e de cache
+*.swp
+*.lock
+*.tmp
+*.temp
+*.pid
+*.seed
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Configurações locais do IIS
+.vs/
+
+# Arquivos de publicação
+publish/
+wwwroot/
+
+# Arquivos gerados pelo NuGet
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Dependências de pacotes geradas localmente
+packages/
+.nuget/
+
+# Arquivos de build de depuração
+debug/
+release/
+
+# Arquivos de migrações aplicados
+Migrations/*.cs
+
+# Exclusão de backup do editor
+*.bak
+
+# Configurações 
